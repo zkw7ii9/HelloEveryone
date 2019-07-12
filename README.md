@@ -1,2 +1,0 @@
-# HelloEveryone
-for practicing
